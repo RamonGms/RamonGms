@@ -23,6 +23,5 @@
   <a href="https://www.linkedin.com/in/ramon-gomes-paulino-59477821b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-  ![Snake animation](https://github.com/RamonGms/RamonGms/tree/d7ef8adc652d01b531f5c6317f040c04fbe5e0c5/.github/workflowshttps://github.com/RamonGms/RamonGms/tree/d7ef8adc652d01b531f5c6317f040c04fbe5e0c5/.github/workflows)
- 
+
 </div>
