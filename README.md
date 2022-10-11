@@ -1,4 +1,4 @@
-## Saudações, meu nome é Ramon gomes!
+## Saudações 🖖 , meu nome é Ramon gomes!
 <div align="center">
   <a href="https://github.com/ramongomes">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ramongms&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
